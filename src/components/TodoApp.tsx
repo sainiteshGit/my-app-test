@@ -67,7 +67,7 @@ function TodoApp() {
 
   return (
     <div className="todo-app flex-column-center">
-      <div className="title">Lily's Todos</div>
+      <div className="title">My Todos</div>
       <TodoInput createTodo={createTodo} />
       <div>
         {todos.map((todo, index) => {
