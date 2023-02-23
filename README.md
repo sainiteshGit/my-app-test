@@ -47,6 +47,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 
-
-Perform 
+## Additional Notes:
+**Note: Perform 
 npm install axios for server.js and any dependencies in server.js and utilities/tracing.js
